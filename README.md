@@ -9,10 +9,10 @@ The wiki is currently being hosted on github for easier updates and free hosting
 - [ ] Make a Weapon rank section
 - [ ] Make a Sitemap page
 - [ ] Make Jewelry page not suck as bad  
-- [ ] Update Hunting > Ticket Section
+- [x] Update Hunting > Ticket Section
 - [ ] Update Hunting > monster Section (replace with N menu?)
-- [ ] Add note to Hunting > bounty about stacking bounties (6 max)
-- [ ] Elaborate on benefits of unstable hunts and daily limit (hunting > unstable)
+- [x] Add note to Hunting > bounty about stacking bounties (6 max)
+- [x] Elaborate on benefits of unstable hunts and daily limit (hunting > unstable)
 - [ ] Redo/Remove Elite Monster section.
 - [ ] Expand Hunting > Raid section
 - [ ] Update NPC Page. Transfer reaver's npc thing. add description and location in clicky thingy.(http://imgur.com/a/8SPjW)
