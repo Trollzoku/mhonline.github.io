@@ -7,7 +7,7 @@ The wiki is currently being hosted on github for easier updates and free hosting
 - [x] N menu Updates (missing pictures and name translations)
 - [x] Update Cats page 
 
-##Priority
+##Priority Projects
 - [ ] Make a end game guide? new player guide?
 - [ ] Add Tutorials for necklace/rings
 - [ ] Update Talisman Section
@@ -27,7 +27,7 @@ The wiki is currently being hosted on github for easier updates and free hosting
 - [x] Add note to Hunting > bounty about stacking bounties (6 max)
 - [x] Elaborate on benefits of unstable hunts and daily limit (hunting > unstable)
 
-##Less Priority projects
+##BackBurner Projects
 - [ ] Add pictures and details to Hunting > arena page
 
 ##Needs Updated
