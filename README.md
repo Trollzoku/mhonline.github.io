@@ -9,6 +9,7 @@ The wiki is currently being hosted on github for easier updates and free hosting
 
 ##Priority Projects
 - [ ] Make a end game guide? new player guide?
+- [ ] Make Hunter sets more foolproof
 - [ ] Add Tutorials for necklace/rings
 - [ ] Update Talisman Section
 - [ ] Make a Weapon rank section
