@@ -5,7 +5,7 @@ The wiki is currently being hosted on github for easier updates and free hosting
 
 ##Ongoing Projects
 - [x] N menu Updates (missing pictures and name translations)
-- [x] Update Cats page 
+- [x] Update Cats page (more useful skills)
 
 ##Priority Projects
 - [ ] Make a end game guide? new player guide?
@@ -29,6 +29,8 @@ The wiki is currently being hosted on github for easier updates and free hosting
 - [x] Elaborate on benefits of unstable hunts and daily limit (hunting > unstable)
 
 ##BackBurner Projects
+- [ ] Hunter Stars Thingy
+- [ ] Achievements thingy
 - [ ] Add pictures and details to Hunting > arena page
 
 ##Needs Updated
