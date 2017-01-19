@@ -22,6 +22,7 @@ The wiki is currently being hosted on github for easier updates and free hosting
 - [ ] Auction House Guide
 - [ ] Initiate transfer of translated content with a Table of Contents for ease of access
 - [ ] Weapons Guide. Hariaka: HH Rest: Pending
+- [ ] Recommended equipments and skills section. Include both general info and weapon specific info
 
 ##Finished Projects
 - [x] Update Hunting > Ticket Section
