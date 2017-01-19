@@ -8,7 +8,7 @@ The wiki is currently being hosted on github for easier updates and free hosting
 - [x] Update Cats page (more useful skills)
 
 ##Priority Projects
-- [ ] Make a end game guide? new player guide?
+- [ ] Make a end game guide? new player guide? Currency Guide?
 - [ ] Make Hunter sets more foolproof
 - [ ] Add Tutorials for necklace/rings
 - [ ] Update Talisman Section
