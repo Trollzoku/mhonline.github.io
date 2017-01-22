@@ -234,7 +234,7 @@ carapaceArray = [
 		"Onimusha",
 		"onimusha",
 		"onimusha.png",
-		"铠岩砦蟹"
+		"武镰蟹"
 	]
 }
 ];
@@ -598,7 +598,7 @@ unknownArray = [
 		"Arbiter Estrellian",
 		"arbiter-estrellian",
 		"estrellian3.png",
-		"祸星龙"
+		"灭星龙"
 	]
 }
 ];
