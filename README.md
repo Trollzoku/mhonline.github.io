@@ -15,6 +15,7 @@ The wiki is currently being hosted on github for easier updates and free hosting
 
 ##Priority Projects
 - [ ] Make a end game guide? new player guide? Currency Guide?
+- [ ] Write about guild quests
 - [ ] Add Tutorials for necklace/rings
 - [ ] Update Talisman Section
 - [ ] Make a Weapon rank section
